@@ -1,0 +1,88 @@
+[
+  {
+    "resume": "resume1.pdf",
+    "name": "SHASHIKANT YADAV",
+    "experience": 3,
+    "skills": [
+      "CSS",
+      "Docker",
+      "Express.js",
+      "Git",
+      "GitHub",
+      "HTML",
+      "JavaScript",
+      "MongoDB",
+      "Node.js",
+      "REST API",
+      "React",
+      "Redux"
+    ]
+  },
+  {
+    "resume": "resume2.pdf",
+    "name": "PRADEEP KUMAR SINGH",
+    "experience": 6,
+    "skills": [
+      "HTML",
+      "JavaScript",
+      "MySQL",
+      "PostgreSQL",
+      "React",
+      "Redux",
+      "TypeScript"
+    ]
+  },
+  {
+    "resume": "resume3.pdf",
+    "name": "Nitin Navik",
+    "experience": 5,
+    "skills": [
+      "AWS",
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "Next.js",
+      "PostgreSQL",
+      "REST API",
+      "React",
+      "React Native",
+      "Redux",
+      "TypeScript"
+    ]
+  },
+  {
+    "resume": "resume4.pdf",
+    "name": "Kiran More",
+    "experience": 4,
+    "skills": [
+      "CSS",
+      "GitHub",
+      "JavaScript",
+      "Next.js",
+      "React",
+      "Redux",
+      "TypeScript"
+    ]
+  },
+  {
+    "resume": "resume5.pdf",
+    "name": "ARBAZ KHAN",
+    "experience": 5,
+    "skills": [
+      "CSS",
+      "Express.js",
+      "Git",
+      "GitHub",
+      "HTML",
+      "JavaScript",
+      "MongoDB",
+      "Node.js",
+      "Python",
+      "REST API",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ]
+  }
+]
